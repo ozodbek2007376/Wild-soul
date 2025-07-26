@@ -14,7 +14,7 @@ body {
   
 
   .background {
-    background-image: url('./public/img/nav-img.png');
+    background-image: url('./img/nav-img.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
