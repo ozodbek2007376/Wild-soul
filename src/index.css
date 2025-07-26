@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Segoe UI', sans-serif;
-    /* background-color: #f36e21;   */
+    background-color: #f36e21;  
     
   }
   
@@ -14,7 +14,7 @@ body {
   
 
   .background {
-    background-image: url('./img/nav-img.png');
+    background-image: url('./public./img/nav-img.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
