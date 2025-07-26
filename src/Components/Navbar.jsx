@@ -112,7 +112,7 @@ export default function Navbar() {
               </a>
             </li>
             <img
-              src="public/img/footer-logo.png"
+              src="./img/footer-logo.png"
               alt=""
               className="logo-img img-fluid "
             />
